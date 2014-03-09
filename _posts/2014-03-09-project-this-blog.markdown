@@ -21,5 +21,6 @@ https://workflowy.com/shared/b8f60ef7-077f-3000-e665-344e5fd4ccb2/
 
 please let me know if you have additional suggestions or find errors (there will be plenty of those):
 
-Twitter: maxschumacher91
+Twitter: @maxschumacher91
+
 eMail: maximilianbschumacher@gmail.com
