@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2014-03-09 13:19:47
+categories: jekyll update
+---
+
+Rspec and Guard:
+
+Why Unit Testing can be a waste of time:
+
+http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf

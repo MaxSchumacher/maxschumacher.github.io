@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2014-03-09 13:19:47
+categories: jekyll update
+---
+
+After reading through this post you'll know:
+
+What Ruby on Rails is
+What a Web Framework is
+Which approach this Tutorial is going to take (best practices)
+
+Learn about Ruby here:
+
+https://en.wikipedia.org/wiki/Ruby%28programming_language%29
+
+Get a soft introduction to Ruby here:
+
+http://tryruby.org/levels/1/challenges/0
+
+You can learn quite a bit of Ruby at Codecademy:
+
+http://www.codecademy.com/tracks/ruby
+
+After that, feel free to head over to CodeSchool's "Rails for Zombies" which is also available for free:
+
+http://railsforzombies.org/
+
+A wealth of free programming resources can be found here:
+
+http://resrc.io/list/10/list-of-free-programming-books/#ruby
+
+Rails is a  web framework that allows for the rapid development of industrial strength web applications.
+
+Ruby is an object-oriented, dynamic, interpreted programming language from Japan which was released in late 1995. Rails which was first released in:  is a framework written in Ruby that ties together a database and a Web server.
+
+This tutorial will try to convey professioneal best practices such as version control (with Git on Github), Test Driven Development (TDD with Rspec) and agile development methodologies. 
+
+The tutorial draws heavily from other works which will be linked to where, I would like to explicitly mention Micheal Hattl's Rails tutorial. Which is slightly out of date but still a great resource. It is available here:
+
+http://ruby.railstutorial.org/
+
+A web application is a program that serves as a user friendly connection to a database and dynamically serves content to clients (browsers)
+
+This Tutorial is very much a work in progress with which I force myself to explain what I have learned as this is, aside from doing, one of the best ways to learn. There will be errors in this text, I very much rely on your input to make this free tutorial as good as it can be.
+
+I’m writing this, because most of the Rails Tutorials focus on development on Mac. Many tutorials are incomplete or out of date (this happens extremely quicly in web – development land) which can prove very frustrating for someone new to the matter.
+
+This material aims at absolute beginners without a formal Computer Science Background, as I am a Business student who is currently working in Product Management.
+
+My primary motivation to learn web development is to be able to prototype and validate my ideas, communicate effectively with developers and to improve my overall ability as a product manager.
+
+Dynamic database-driven Web sites provide user interaction beyond static and dynamic Web pages that use only client-side scripting. Database-driven Web sites use scripts or programs on the server to interact with data stored in a database to provide a rich interactive environment. Web forums, e-commerce sites, blogs, wikis, and various social networking sites are all examples of database-driven Web sites.
+
+RoR is unique not because it results in a database-driven Web site, but in how it streamlines development of the site. RoR creates a framework consisting of a directory structure and several scripts with all of the code required to create a model (the database), the views (Web pages for interacting with the database), and the controllers, which connect the model and the views. RoR takes a lot of the burden of database management and server programming off Web developers.
+
+Best practices for RoR developers call for them to do all development on their local machines. This requires a Web server, database program, Ruby, and Rails.
+
+In this tutorial you'll learn a couple of things about Linux (the distribution I'm using is Ubuntu) and which programs you can use to be productive. 
+
+http://andre.arko.net/2013/05/12/deathmatch-bundler-vs-rubygemsorg/
+ 
+http://www.serena.com/docs/repository/solutions/intro-to-agile-devel.pdf
+
+
+http://blogs.balsamiq.com/ux/2013/02/06/using-mockups-in-your-agile-user-stories/
+
+
+These are notes on my learning journey in Rails, the resources I refer to are 
+BerkeleyX: CS169.1x Software as a Service, Micheal Hattl's Rails Tutorial,
+the Oding Projcect: http://www.theodinproject.com/courses/introduction-to-web-development/lessons/what-a-web-developer-does
+ 
+
+Instead of focusing on theoretical considerations and learning the fundamentals, we want to get started with actually building things as quickly as possible.
+
+Choosing the right programming language to start with is a problem very newbies (like me) are faced with. From personal experience it is not adivsable to spend enormous time on issues such as "Python vs. Ruby" or "Django vs. Rails", "Will Node.js based Frameworks kill Rails?", etc. but to have a project idea and then get informed about ways of implementing these.
+
+This tutorial will only include one set of tools as I don't feel that total beginners should spend a lot of time wondering about the fine differences of different editors or Ruby version managers etc. Just get going and get your hands dirty.
+
+Many tutorials focus on development on Mac or even Windows (something I'll attempt development on a Linux Distribution.). This distribution is Ubuntu, not because it is the best but it is the most commonly used and it is very friendly for beginners. As the intricacies of Operating Systems or Unix, or Linux are not subject of this course we'll only cover the most important topics in these areas.
+
+Some command line magic and understanding can go a long way and help you tremendously in becoming a good developer
+
+http://viget.com/extend/bundler-best-practices
+
+
+https://rubymonk.com/
+
+
+http://rubykoans.com/
+
+
+https://github.com/styleguide/ruby
+
+
+http://www.codecademy.com/tracks/ruby
+
+
+http://www.agilemanifesto.org/principles.html
+
+
+
+
+
