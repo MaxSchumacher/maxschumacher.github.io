@@ -65,9 +65,8 @@ The entire Git - documentation is available here:
 
 http://git-scm.com/doc
 
-Another cool text on git (also free) with an interesting link to Graph Theory can be found here:
-
-http://think-like-a-git.net/epic.html
+Another cool text on git (also free) with an interesting link to Graph Theory can be found http:
+here://think-like-a-git.net/epic.html
 
 Salesforce and Heroku created a Cheatsheet, which is a handy reference for the most common commands.
 

@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "About"
+title:  "Motivation"
 date:   2014-03-09 13:19:47
 categories: jekyll update
 ---
 
-My motivation for this blog ist to force myself to do detailed research on every single problem and insight I encounter along the way so as to maximize my own learning.
+My motivation for this wiriting blog ist to force myself to do detailed research on every single problem I encounter along the way.Insights should be documented for others to see. Quite egocentrically I hope that this will me maximize my own learning.
 
 I started this blog because Richard Schneems (@schneems on Twitter) recommended to document one's learning activities in a blog form so as to start discussions, interact with other learners and, in a sense, give back to the Developer community.
 
-This is also an attempt to finally build a good an appealing blog with valuable content. I'm currently experimenting with Ghost (hosted on an EC2 instance on AWS) but am also looking at Octopress.
+He makes this recommendation the first UT lecture of his:
+
+http://www.schneems.com/ut-rails/
 
 In terms of style and approach to writing I'll try to stick to best practices presented in the offical Rails Guides which are available here:
 

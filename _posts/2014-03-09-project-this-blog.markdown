@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About"
+title:  "Project: This blog"
 date:   2014-03-09 13:19:47
 categories: jekyll update
 ---
@@ -18,6 +18,8 @@ It did take me a while to set up and I could get more routine with the Git/Githu
 I'm organizing what is next for this blog in workflowy, a tool I can recommend:
 
 https://workflowy.com/shared/b8f60ef7-077f-3000-e665-344e5fd4ccb2/
+
+I'll put together links so you can easily set up your own Jekyll blog
 
 please let me know if you have additional suggestions or find errors (there will be plenty of those):
 
