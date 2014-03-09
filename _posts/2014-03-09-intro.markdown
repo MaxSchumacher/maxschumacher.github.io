@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "And so it begins!"
+title:  "And so it begins"
 date:   2014-03-09 13:19:47
 categories: jekyll update
 ---
