@@ -4,12 +4,6 @@ title:  "Version Control with Git"
 date:   2014-03-09 13:19:47
 categories: jekyll update
 ---
----
-layout: post
-title:  "Version Control with Git"
-date:   2014-03-09 13:19:47
-categories: jekyll update
----
 
 There are plenty of resources on learning Git. it is a very powerful tool, that enables collaboration between software developers and allows you to track the changes made to your source code, whether you work in a project or not.
 
@@ -62,6 +56,18 @@ http://pcottle.github.io/learnGitBranching/
 You can save some time by setting up Aliases for Git:
 
 To add git <code>ci</code> as a shortcut to <code>git commit</code>, just type git <code>config --global alias.ci</code> "commit" the command prompt. This works for any Git command so you can customize your environment just the way you want it. 
+
+Pro Git, which deals with in more detail can be read for free on the web:
+
+http://git-scm.com/book
+
+The entire Git - documentation is available here:
+
+http://git-scm.com/doc
+
+Another cool text on git (also free) with an interesting link to Graph Theory can be found here:
+
+http://think-like-a-git.net/epic.html
 
 Salesforce and Heroku created a Cheatsheet, which is a handy reference for the most common commands.
 
