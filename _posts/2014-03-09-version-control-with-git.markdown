@@ -45,6 +45,10 @@ As soon as you have a project you're working on, it is helpful to set up an acco
 
 We'll stick to Github because it evolved  into a kind of showcase of one's work, it is not uncommon to show your Github profile in a job interview. Hosting Public repositiories is free anyway and Github just works quite seamless.
 
+If you don't want to type in your username (email) and password every single time you push or pull follow these instructions to set up SSH:
+
+https://help.github.com/articles/generating-ssh-keys
+
 No need to reinvent the wheel, work through this short Git introduction by Github to learn more:
 
 Follow this interactive course "Try Git":
@@ -67,4 +71,3 @@ Salesforce and Heroku created a Cheatsheet, which is a handy reference for the m
 
 https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf
  
-
